@@ -1,0 +1,10 @@
+.sidebar {
+  float: right;
+  font-style: italic;
+  font-family: sans-serif;
+
+}
+
+img.main {
+  float: left;
+}
