@@ -3,8 +3,13 @@
   font-style: italic;
   font-family: sans-serif;
 
+  margin: 18px;
+  border: 8px green;
+  padding: 4px;
+  background-color: orange;
 }
 
 img.main {
   float: left;
+  padding: 18px;
 }
